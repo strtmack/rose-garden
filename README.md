@@ -1,2 +1,4 @@
 # html rose garden
-![rose](rose.png)
+![rose](rose.png)  
+  
+⟶⟶⟶ [visit page](https://strtmack.github.io/rose-garden/) ⟵⟵⟵
